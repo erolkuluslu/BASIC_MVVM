@@ -1,4 +1,4 @@
-# Basic MVVM Flutter App (For HardwareAndro) - Helper Edition
+# Basic MVVM Flutter App 
 
 This Flutter application, crafted with insights from HardwareAndro's code and videos, follows the MVVM (Model-View-ViewModel) architecture pattern. It includes a basic user interface for entering a user name, performing validation, and interacting with a service layer. The application is structured into different classes and files to maintain a clean and modular codebase, with inspiration and guidance from HardwareAndro's resources.
 
